@@ -1,0 +1,61 @@
+[ {
+  "uid" : "4753546adff8dd1a",
+  "name" : "test_class",
+  "time" : {
+    "start" : 1629470983748,
+    "stop" : 1629470987888,
+    "duration" : 4140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a135e52688c05a44",
+  "name" : "用例名：输入密码",
+  "time" : {
+    "start" : 1629470991932,
+    "stop" : 1629470993056,
+    "duration" : 1124
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "56ecd64765db8e7",
+  "name" : "用例名：点击登录百度",
+  "time" : {
+    "start" : 1629470987894,
+    "stop" : 1629470988979,
+    "duration" : 1085
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "fed29c85b91eae75",
+  "name" : "用例名：输入用户名",
+  "time" : {
+    "start" : 1629470990814,
+    "stop" : 1629470991900,
+    "duration" : 1086
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c0717f595540779c",
+  "name" : "用例名：点击用户名登录",
+  "time" : {
+    "start" : 1629470989020,
+    "stop" : 1629470990785,
+    "duration" : 1765
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "2d0f4d0c7449c494",
+  "name" : "用例名：点击登录",
+  "time" : {
+    "start" : 1629470993087,
+    "stop" : 1629470994165,
+    "duration" : 1078
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

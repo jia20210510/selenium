@@ -1,0 +1,1 @@
+[32mINFO    [0m debug_logger:test_keywords.py:57 点击用户名登录

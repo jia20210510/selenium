@@ -1,0 +1,7 @@
+Chrome,http://www.baidu.com
+序号,模块,测试步骤,选择器,元素,操作,输入文本,预期结果
+1,登录,点击登录百度,id,s-top-loginbtn,click,,
+2,登录,点击用户名登录,id,TANGRAM__PSP_11__footerULoginBtn,click,,
+3,登录,输入用户名,name,userName,send_keys,13662566067,
+4,登录,输入密码,name,password,send_keys,xsrs1234bd,
+5,登录,点击登录,id,TANGRAM__PSP_11__submit,click,,

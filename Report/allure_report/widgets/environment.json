@@ -1,0 +1,28 @@
+[ {
+  "values" : [ "Chrome" ],
+  "name" : "browser"
+}, {
+  "values" : [ "http://www.baidu.com" ],
+  "name" : "url"
+}, {
+  "values" : [ "win10" ],
+  "name" : "System.version"
+}, {
+  "values" : [ "jia" ],
+  "name" : "author"
+}, {
+  "values" : [ "3.8.0" ],
+  "name" : "python"
+}, {
+  "values" : [ "6.2.4" ],
+  "name" : "pyTest"
+}, {
+  "values" : [ "2.9.43" ],
+  "name" : "allure"
+}, {
+  "values" : [ "2.0.1" ],
+  "name" : "flask"
+}, {
+  "values" : [ "3.1.1" ],
+  "name" : "html"
+} ]

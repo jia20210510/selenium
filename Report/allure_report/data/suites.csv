@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 20 22:49:43 CST 2021","Fri Aug 20 22:49:47 CST 2021","4140","Common","test_keywords","TestKeyWords","","","test_class",""
+"passed","Fri Aug 20 22:49:51 CST 2021","Fri Aug 20 22:49:53 CST 2021","1124","Common","test_keywords","TestKeyWords","","","用例名：输入密码",""
+"passed","Fri Aug 20 22:49:47 CST 2021","Fri Aug 20 22:49:48 CST 2021","1085","Common","test_keywords","TestKeyWords","","","用例名：点击登录百度",""
+"passed","Fri Aug 20 22:49:50 CST 2021","Fri Aug 20 22:49:51 CST 2021","1086","Common","test_keywords","TestKeyWords","","","用例名：输入用户名",""
+"passed","Fri Aug 20 22:49:49 CST 2021","Fri Aug 20 22:49:50 CST 2021","1765","Common","test_keywords","TestKeyWords","","","用例名：点击用户名登录",""
+"passed","Fri Aug 20 22:49:53 CST 2021","Fri Aug 20 22:49:54 CST 2021","1078","Common","test_keywords","TestKeyWords","","","用例名：点击登录",""

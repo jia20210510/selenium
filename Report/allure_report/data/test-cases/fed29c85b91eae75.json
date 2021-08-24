@@ -1,0 +1,174 @@
+{
+  "uid" : "fed29c85b91eae75",
+  "name" : "用例名：输入用户名",
+  "fullName" : "Common.test_keywords.TestKeyWords#test_baidu",
+  "historyId" : "71e1919835e5a6b8960b8b151fd832d5",
+  "time" : {
+    "start" : 1629470990814,
+    "stop" : 1629470991900,
+    "duration" : 1086
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestKeyWords",
+    "time" : {
+      "start" : 1629470983746,
+      "stop" : 1629470983747,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "执行'登录'模块",
+      "time" : {
+        "start" : 1629470990814,
+        "stop" : 1629470991899,
+        "duration" : 1085
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "sn",
+        "value" : "'3'"
+      }, {
+        "name" : "title",
+        "value" : "'登录'"
+      }, {
+        "name" : "step",
+        "value" : "'输入用户名'"
+      }, {
+        "name" : "locator",
+        "value" : "'name'"
+      }, {
+        "name" : "elements",
+        "value" : "'userName'"
+      }, {
+        "name" : "opr",
+        "value" : "'send_keys'"
+      }, {
+        "name" : "value",
+        "value" : "'13662566067'"
+      }, {
+        "name" : "expect",
+        "value" : "''"
+      }, {
+        "name" : "actual",
+        "value" : "''"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "4ced2dc8772193bf",
+      "name" : "log",
+      "source" : "4ced2dc8772193bf.txt",
+      "type" : "text/plain",
+      "size" : 66
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestKeyWords::0",
+    "time" : {
+      "start" : 1629470994185,
+      "stop" : 1629470996722,
+      "duration" : 2537
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Common"
+  }, {
+    "name" : "suite",
+    "value" : "test_keywords"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestKeyWords"
+  }, {
+    "name" : "host",
+    "value" : "WIN10-jjia"
+  }, {
+    "name" : "thread",
+    "value" : "12616-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Common.test_keywords"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "actual",
+    "value" : "''"
+  }, {
+    "name" : "elements",
+    "value" : "'userName'"
+  }, {
+    "name" : "expect",
+    "value" : "''"
+  }, {
+    "name" : "locator",
+    "value" : "'name'"
+  }, {
+    "name" : "opr",
+    "value" : "'send_keys'"
+  }, {
+    "name" : "sn",
+    "value" : "'3'"
+  }, {
+    "name" : "step",
+    "value" : "'输入用户名'"
+  }, {
+    "name" : "title",
+    "value" : "'登录'"
+  }, {
+    "name" : "value",
+    "value" : "'13662566067'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fed29c85b91eae75.json",
+  "parameterValues" : [ "''", "'userName'", "''", "'name'", "'send_keys'", "'3'", "'输入用户名'", "'登录'", "'13662566067'" ]
+}

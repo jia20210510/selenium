@@ -1,0 +1,2 @@
+[32mINFO    [0m debug_logger:test_keywords.py:39 清除temp文件，重新写入配置
+[32mINFO    [0m debug_logger:test_keywords.py:46 打开浏览器:Chrome
