@@ -15,7 +15,8 @@
 版本要匹配 chrome driver   与   chrome   
 
 使用[清华网站](https://pypi.tuna.tsinghua.edu.cn/simple)安装pandas:
-'''
+```
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -U pandas
-'''
+
+```
 
